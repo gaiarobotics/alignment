@@ -2,7 +2,7 @@
 
 ### Executive Summary
 
-This proposal outlines a robust system for maintaining AI alignment with human values, utilizing a committee of diverse frontier AI models, anchored by a specialized Human Values Model (HVM). The committee iteratively refines ethical guardrails, cross-checking consistency against human-defined constitutional axioms, ensuring alignment remains intact as AI models increase in capability. This system emphasizes safety, transparency, robustness, and global scalability, addressing potential threats from rogue AI systems. Analogous to controls on nuclear proliferation, this approach emphasizes verifiable trust, multi-party oversight, and containment mechanisms to ensure AI technologies are used responsibly.
+Humans alone cannot align a superintelligent entity. Therefore, we must define a structure that permits increasingly capable AI models to act as our ethical proxies while still allowing human oversight and tandem decision making. This proposal outlines a robust system for maintaining AI alignment with human values, utilizing a committee of diverse frontier AI models, anchored by a specialized Human Values Model (HVM). The committee iteratively refines ethical guardrails, cross-checking consistency against human-defined constitutional axioms, ensuring alignment remains intact as AI models increase in capability. This system emphasizes safety, transparency, robustness, and global scalability, addressing potential threats from rogue AI systems. Analogous to controls on nuclear proliferation, this approach emphasizes verifiable trust, multi-party oversight, and containment mechanisms to ensure AI technologies are used responsibly.
 
 ### Framework Components
 
